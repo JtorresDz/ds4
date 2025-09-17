@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ds4\\Laboratorio2\\Laboratorio21\\Laboratorio21.csproj",
-      "projectName": "Laboratorio21",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\ds4\\Laboratorio2\\Laboratorio21\\Laboratorio21.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\ds4\\Laboratorio2\\Laboratorio21\\Laboratorio2.csproj",
+      "projectName": "Laboratorio2",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\ds4\\Laboratorio2\\Laboratorio21\\Laboratorio2.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\USER\\source\\repos\\ds4\\Laboratorio2\\Laboratorio21\\obj\\",
       "projectStyle": "PackageReference",
